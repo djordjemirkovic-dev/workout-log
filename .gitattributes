@@ -1,0 +1,2 @@
+*.sql linguist-language=PLpgSQL
+*.ipynb linguist-detectable=true
